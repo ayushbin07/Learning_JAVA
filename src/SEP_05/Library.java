@@ -1,5 +1,4 @@
 package SEP_05;
-//Sunday ho ya Monday, Roj khao andey
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
