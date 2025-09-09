@@ -1,3 +1,5 @@
+package Before_Sep_04;
+
 import java.util.Random;
 import java.util.Scanner;
 
