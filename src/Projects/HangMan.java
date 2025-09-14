@@ -10,6 +10,7 @@ import java.util.Scanner;
 //Dammi Game
 //Falling back
 //
+ //
 public class HangMan {
     public static void main(String[] args) {
         //String word = "pizza";
