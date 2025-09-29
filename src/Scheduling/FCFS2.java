@@ -74,3 +74,5 @@ class FCFS2 {
         System.out.print("Avg Turnaround Time: " + totalTurnAroundTime / processes.size());
     }
 }
+
+//Working
