@@ -1,10 +1,10 @@
-package Sep_28;
+package Sep_29;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class LearningHashMap {
+public class LearningHashMap2 {
     public static void main(String[] args) {
         HashMap<Integer, String> map = new HashMap<>();
         map.put(1, "Ayush");
@@ -38,5 +38,7 @@ public class LearningHashMap {
         for(Map.Entry<Integer, String> i :entries){
             System.out.println(i.getKey()+" -> "+i.getValue());
         }
+
+        
     }
 }

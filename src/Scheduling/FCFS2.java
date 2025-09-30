@@ -38,7 +38,7 @@ class FCFS2 {
 
         int i = 0;
         int timeLine = 0;
-        int totalWaitingTime = 0, totalTurnAroundTime = 0;
+        double totalWaitingTime = 0, totalTurnAroundTime = 0;
         //Table header
         System.out.printf("%-10s %-15s %-15s %-15s %-15s%n", "Processes", "Arrival Time", "Burst Time", "Waiting Time", "Turnaround Time");
         System.out.println("-------------------------------------------------------------------------------");
